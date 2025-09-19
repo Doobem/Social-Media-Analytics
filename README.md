@@ -8,6 +8,7 @@
 - [Tools and APIs](#tools-and-apis)
 - [Conclusion and Recommendation](#conclusion-and-recommendation)
 - [ Limitations](#limitations)
+
 ## Description
 The purpose of this project is divided into two main sections. First, it examines customer and patient review data from social media for Mayo Clinic and Cleveland Clinic. These reviews were collected using Octoparse and visualised in Tableau. In addition, employee evaluations for both clinics were also scraped and analysed to provide insights into internal management. Secondly, Twitter data from both clinics was utilised for sentiment analysis to further understand public perception and engagement. Overall, the study aims to provide a holistic view of customer and employee management at both institutions.
 
